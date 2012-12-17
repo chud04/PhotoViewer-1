@@ -38,5 +38,5 @@
             android:text="@string/next" />
     </LinearLayout>
     -->
-    <include layout="@layout/next_back_layout" />"
+    <include layout="@layout/next_back_layout" />
 </LinearLayout>

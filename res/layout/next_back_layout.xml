@@ -7,10 +7,14 @@
         android:layout_width="0dip"
         android:layout_weight="1"
         android:layout_height="wrap_content"
-        android:text="@string/prev" />
-    <Button 
+        android:text="@string/prev"
+        android:textColor="@drawable/textcolor_stateful"
+        android:background="@drawable/image_stateful" />
+    <Button
         android:layout_width="0dip"
         android:layout_weight="1"
         android:layout_height="wrap_content"
-        android:text="@string/next" />
+        android:text="@string/next"
+        android:textColor="@drawable/textcolor_stateful"
+        android:background="@drawable/image_stateful" />
 </LinearLayout>
